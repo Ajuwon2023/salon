@@ -301,6 +301,11 @@
      line-height: 22px;
      color: #73441A;
 }
+
+#sidebarCollapse a:hover {
+    color: black;
+}
+
  .button_user li a {
     color: #fff;
 }
@@ -344,6 +349,12 @@
     height: 34px;
     filter: invert(100%) sepia(100%);
 }
+
+.dinone a:hover {
+    color: #000000 !important;
+    
+}
+
 /** slider section **/
  #main_slider {
      padding: 90px 0 30px;
